@@ -1,0 +1,3 @@
+Dear **XXX**,
+
+Bye *Bye* :)
